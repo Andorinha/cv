@@ -1,0 +1,9 @@
+.profile {
+  border-radius: 50%;
+}
+@font-face {
+  font-family: Nunito Sans;
+  src: url(https://fonts.googleapis.com/css?family=Nunito+Sans);
+}
+.grid-item { width: 300px; }
+.grid-item--width2 { width: 400px; }
